@@ -1,2 +1,3 @@
 # To-Do-List
-Daily habit tracker
+Habit tracker of positive actions that should be done daily. 
+Written in C#
